@@ -1,0 +1,11 @@
+C:\Users\DELL LATITTUDE 7280\Desktop\c#-\bin\Debug\netcoreapp3.1\C#-.exe
+c:\Users\DELL LATITTUDE 7280\Desktop\C#-\bin\Debug\netcoreapp3.1\C#-.deps.json
+c:\Users\DELL LATITTUDE 7280\Desktop\C#-\bin\Debug\netcoreapp3.1\C#-.runtimeconfig.json
+c:\Users\DELL LATITTUDE 7280\Desktop\C#-\bin\Debug\netcoreapp3.1\C#-.runtimeconfig.dev.json
+C:\Users\DELL LATITTUDE 7280\Desktop\c#-\bin\Debug\netcoreapp3.1\C#-.dll
+C:\Users\DELL LATITTUDE 7280\Desktop\c#-\bin\Debug\netcoreapp3.1\C#-.pdb
+C:\Users\DELL LATITTUDE 7280\Desktop\c#-\obj\Debug\netcoreapp3.1\C#-.csprojAssemblyReference.cache
+C:\Users\DELL LATITTUDE 7280\Desktop\c#-\obj\Debug\netcoreapp3.1\C#-.AssemblyInfoInputs.cache
+C:\Users\DELL LATITTUDE 7280\Desktop\c#-\obj\Debug\netcoreapp3.1\C#-.AssemblyInfo.cs
+C:\Users\DELL LATITTUDE 7280\Desktop\c#-\obj\Debug\netcoreapp3.1\C#-.dll
+C:\Users\DELL LATITTUDE 7280\Desktop\c#-\obj\Debug\netcoreapp3.1\C#-.pdb
