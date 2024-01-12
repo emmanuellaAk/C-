@@ -1,28 +1,19 @@
 ﻿using System;
-
-namespace ClassAndObject
+class Car
 {
+    public string color = "blue";
+    public string type = "toyota";
+}
 
-    class Username
+class Program
+{
+    static void Main(string[] args)
     {
-        public int UserId { get; set; }
-        public string name { get; set; }
-        public int age { get; set; }
-
-        public void showInfo()
-        {
-            Console.WriteLine("UserInfo");
-            Console.WriteLine("UserId : {1324}, name : {ella}, age : {19}", UserId, name, age);
-        }
-
-    }
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-
-            Username sl
-        }
+        Car car1 = new Car();
+        Car car2 = new Car();
+        Console.WriteLine(car1.color);
+        Console.WriteLine(car1.type);
+        Console.WriteLine(car2.type);
     }
 }
+

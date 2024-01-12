@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL LATITTUDE 7280\\Desktop\\c#-\\c#-.csproj": {}
+    "c:\\Users\\DELL LATITTUDE 7280\\Desktop\\C#-\\C#-.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL LATITTUDE 7280\\Desktop\\c#-\\c#-.csproj": {
+    "c:\\Users\\DELL LATITTUDE 7280\\Desktop\\C#-\\C#-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL LATITTUDE 7280\\Desktop\\c#-\\c#-.csproj",
-        "projectName": "c#-",
-        "projectPath": "C:\\Users\\DELL LATITTUDE 7280\\Desktop\\c#-\\c#-.csproj",
+        "projectUniqueName": "c:\\Users\\DELL LATITTUDE 7280\\Desktop\\C#-\\C#-.csproj",
+        "projectName": "C#-",
+        "projectPath": "c:\\Users\\DELL LATITTUDE 7280\\Desktop\\C#-\\C#-.csproj",
         "packagesPath": "C:\\Users\\DELL LATITTUDE 7280\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL LATITTUDE 7280\\Desktop\\c#-\\obj\\",
+        "outputPath": "c:\\Users\\DELL LATITTUDE 7280\\Desktop\\C#-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL LATITTUDE 7280\\AppData\\Roaming\\NuGet\\NuGet.Config"
