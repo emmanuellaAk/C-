@@ -1,13 +1,37 @@
 ﻿using System;
-class Car
-{
-    public string name;
-    public string color;
 
-    public Car(string name1, string color1)
+class User
+{
+
+    public string UserName
     {
-        name = name1;
-        color = color1;
+        get { return userName; }
+        set { userName = value; }
+    }
+
+    public int UserId
+    {
+        get { return userId; }
+        set { userId = value; }
+    }
+
+    public string UseColor
+    {
+        get { return useColor; }
+        set { userColor = color1; }
+    }
+
+    private string userName;
+    private int userId;
+    private string userColor;
+
+
+    public User(string name1, int
+    Id1, string color1)
+    {
+        userName = name1;
+        userId = Id1;
+        userColor = color1;
     }
 }
 
@@ -15,13 +39,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Car Ford = new Car("Ford", "blue");
-
-        Car Toyota = new Car("Toyota", "green");
-
-        Console.WriteLine(Ford.name + " " + Ford.color);
-        Console.WriteLine(Toyota.color);
-
+        User user1 = new User("ella", 234, "white");
+        Console.WriteLine(user1.userColor);
     }
-}
 
+
+}
